@@ -12,7 +12,7 @@
 
 
 <details>
-<summary>⌁ classified identity // 002</summary>
+<summary>⌁ classified identity // 001</summary>
 
 <br>
 
@@ -75,7 +75,7 @@ if you found this, the signal was meant for you.
 `[ transmission received ]`
 
 <details>
-<summary>▸ classified file // 001</summary>
+<summary>▸ classified file // 002</summary>
 
 behind the static, something softer survives.
 

@@ -93,6 +93,21 @@ behind the static, something softer survives.
 
 `01001100 01001111 01010110 01000101`
 
+
+<details>
+<summary>⌁ anomalous transmission // 004</summary>
+
+<br>
+
+`[ WARNING: UNEXPECTED CHAOS DETECTED ]`
+
+<img src="trigun-chaos.jpg" alt="Vash and Wolfwood motorcycle chaos from Trigun" width="420">
+
+`[ SIGNAL DISRUPTED ]`
+
+</details>
+
+
 ![silent observers](https://komarev.com/ghpvc/?username=Terch-z3L0uis&label=observers&color=555555&style=flat-square)
 
 

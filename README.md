@@ -16,5 +16,7 @@ if you found this, the signal was meant for you.
 
 </details>
 
+![silent observers](https://komarev.com/ghpvc/?username=Terch-z3L0uis&label=observers&color=555555&style=flat-square)
+
 </div>
 

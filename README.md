@@ -22,7 +22,8 @@ somewhere between silence and static.
 Greetings, wanderer. You may call me Terch or Louise.
 
 Just a quiet presence who enjoys art, peculiar stories, nostalgic things,
-and creating little worlds. I prefer keeping parts of my identity undisclosed.
+and creating little worlds.
+I prefer keeping parts of my identity undisclosed.
 
 Not every mystery requires an explanation.
 

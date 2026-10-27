@@ -28,7 +28,9 @@ behind the static, something softer survives.
 
 ![typing transmission](https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=440&lines=establishing+connection...;identity+not+found.;one+signal+remains.)
 
+`[ encrypted fragment // 003 ]`
 
+`01001100 01001111 01010110 01000101`
 
 ![silent observers](https://komarev.com/ghpvc/?username=Terch-z3L0uis&label=observers&color=555555&style=flat-square)
 

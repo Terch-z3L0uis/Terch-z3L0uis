@@ -36,15 +36,14 @@ behind the static, something softer survives.
 
 ![silent observers](https://komarev.com/ghpvc/?username=Terch-z3L0uis&label=observers&color=555555&style=flat-square)
 
-`[ OBSERVER SYSTEM // 001 ]`
+---
 
-`> unknown presence detected`
+`[ OBSERVER // UNKNOWN ]`
 
-`> observer identity: ███████`
+### ◉
 
-`> connection: established`
+*NO MOVEMENT DETECTED.*
 
-*you are not alone.*
 
 </div>
 

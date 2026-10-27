@@ -7,5 +7,14 @@
 
 [⟡ follow the faint signal ⟡](https://terch-z3l0uis.github.io/Zelouiserch/)
 
+<details>
+<summary>⌁ an unread transmission</summary>
+
+if you found this, the signal was meant for you.
+
+`[ transmission received ]`
+
+</details>
+
 </div>
 

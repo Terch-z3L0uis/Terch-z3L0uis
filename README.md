@@ -95,7 +95,7 @@ behind the static, something softer survives.
 
 
 <details>
-<summary>⌁ anomalous transmission // 004</summary>
+<summary>⌁ anomalous transmission // 003</summary>
 
 <br>
 

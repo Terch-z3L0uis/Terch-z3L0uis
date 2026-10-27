@@ -36,14 +36,4 @@ behind the static, something softer survives.
 
 ![silent observers](https://komarev.com/ghpvc/?username=Terch-z3L0uis&label=observers&color=555555&style=flat-square)
 
----
-
-`[ OBSERVER // UNKNOWN ]`
-
-### ◉
-
-*NO MOVEMENT DETECTED.*
-
-
-</div>
 

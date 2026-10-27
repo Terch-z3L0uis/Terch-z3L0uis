@@ -89,7 +89,7 @@ behind the static, something softer survives.
 
 ![observer transmission](https://readme-typing-svg.demolab.com?font=Courier+New&size=17&duration=4000&pause=1600&color=9CA3AF&center=true&vCenter=true&width=440&lines=someone+is+watching...;not+behind+you.;behind+the+screen.)
 
-`[ encrypted fragment // 003 ]`
+`[ encrypted fragment ]`
 
 `01001100 01001111 01010110 01000101`
 

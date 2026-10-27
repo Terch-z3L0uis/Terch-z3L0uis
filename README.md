@@ -85,8 +85,9 @@ behind the static, something softer survives.
 
 </details>
 
-
 ![typing transmission](https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=440&lines=establishing+connection...;identity+not+found.;one+signal+remains.)
+
+![observer transmission](https://readme-typing-svg.demolab.com?font=Courier+New&size=17&duration=4000&pause=1600&color=9CA3AF&center=true&vCenter=true&width=440&lines=someone+is+watching...;not+behind+you.;behind+the+screen.)
 
 `[ encrypted fragment // 003 ]`
 

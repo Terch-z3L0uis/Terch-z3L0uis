@@ -21,7 +21,8 @@ somewhere between silence and static.
 
 Greetings, wanderer. You may call me Terch or Louise.
 
-Just a quiet presence who enjoys art, peculiar stories, nostalgic things, and creating little worlds. I prefer keeping parts of my identity undisclosed.
+Just a quiet presence who enjoys art, peculiar stories, nostalgic things,
+and creating little worlds. I prefer keeping parts of my identity undisclosed.
 
 Not every mystery requires an explanation.
 
@@ -33,7 +34,12 @@ Not every mystery requires an explanation.
 
 Kindness and mutual respect are always appreciated.
 
-I may be quiet or slow to respond. Please don't mistake silence for hostility. Conversations should feel comfortable, never obligatory. I value personal boundaries, genuine friendships, creative expression, and conversations that don't feel forced. I appreciate kindness, creativity, patience, and people who can be a little silly sometimes.
+I may be quiet or slow to respond.
+Please don't mistake silence for hostility. 
+Conversations should feel comfortable, never obligatory. 
+I value personal boundaries, genuine friendships, creative expression, and conversations
+that don't feel forced.
+I appreciate kindness, creativity, patience, and people who can be a little silly sometimes.
 
 Please understand that I have a life outside the internet, so I may not always be available.
 

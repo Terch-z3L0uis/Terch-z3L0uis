@@ -13,11 +13,6 @@
 </div>
 
 
-  <p><i>❦ Two fragments recovered from the same forgotten archive. ❦</i></p>
-
-  <sub>〔 FILE 001 〕 · 〔 FILE 002 〕</sub>
-
-</div>
 
 
 

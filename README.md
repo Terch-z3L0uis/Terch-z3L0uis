@@ -7,6 +7,7 @@
        alt="Classified photograph">
 
   <p><i>❦  𝕬 𝖋𝖗𝖆𝖌𝖒𝖊𝖓𝖙 𝖔𝖋 𝖆 𝖋𝖔𝖗𝖌𝖔𝖙𝖙𝖊𝖓 𝖒𝖊𝖒𝖔𝖗𝖞.   ❦</i></p>
+   𝔄 𝔠𝔬𝔯𝔯𝔢𝔰𝔭𝔬𝔫𝔡𝔢𝔫𝔠𝔢 𝔯𝔢𝔠𝔬𝔳𝔢𝔯𝔢𝔡 𝔣𝔯𝔬𝔪 𝔞𝔫 𝔲𝔫𝔪𝔞𝔯𝔨𝔢𝔡 𝔞𝔯𝔠𝔥𝔦𝔳𝔢. 
 
   <sub>[ FILE NO. 001 — IDENTITY WITHHELD ]</sub>
 
@@ -22,7 +23,6 @@
 
 <sub>EST. UNKNOWN · ORIGIN UNVERIFIED · RECORD INCOMPLETE</sub>
 
-*❦ ᴬ ᶜᵒʳʳᵉˢᵖᵒⁿᵈᵉⁿᶜᵉ ʳᵉᶜᵒᵛᵉʳᵉᵈ ᶠʳᵒᵐ ᵃⁿ ᵘⁿᵐᵃʳᵏᵉᵈ ᵃʳᶜʰⁱᵛᵉ. ❦*
 
 </div>
 <div align="center">

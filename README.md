@@ -1,6 +1,13 @@
 
 <div align="center">
-  <img src="The%20Last%20Witness_%20Unregistered%20Archive.png" alt="The Last Witness — Unregistered Archive" width="75%">
+
+  <img src="download-removebg-preview.png" width="42%" alt="Archive photograph 001">
+  <img src="trigun-chaos.jpg" width="42%" alt="Archive photograph 002">
+
+  <p><i>❦ Two fragments recovered from the same forgotten archive. ❦</i></p>
+
+  <sub>〔 FILE 001 〕 · 〔 FILE 002 〕</sub>
+
 </div>
 
 

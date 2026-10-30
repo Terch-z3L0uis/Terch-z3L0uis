@@ -22,7 +22,7 @@
 
 <sub>EST. UNKNOWN · ORIGIN UNVERIFIED · RECORD INCOMPLETE</sub>
 
-*❦ A correspondence recovered from an unmarked archive. ❦*
+*❦ ᴬ ᶜᵒʳʳᵉˢᵖᵒⁿᵈᵉⁿᶜᵉ ʳᵉᶜᵒᵛᵉʳᵉᵈ ᶠʳᵒᵐ ᵃⁿ ᵘⁿᵐᵃʳᵏᵉᵈ ᵃʳᶜʰⁱᵛᵉ. ❦*
 
 </div>
 <div align="center">

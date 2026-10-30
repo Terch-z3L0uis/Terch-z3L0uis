@@ -18,7 +18,7 @@
 *❦ A correspondence recovered from an unmarked archive. ❦*
 
 </div>
-
+---
 
 <div align="center">
 

@@ -16,56 +16,92 @@
 
 <br>
 
-### ⌁ THE UNIDENTIFIED HOST
+# 𝕿𝖍𝖊 𝖀𝖓𝖗𝖊𝖌𝖎𝖘𝖙𝖊𝖗𝖊𝖉 𝕮𝖔𝖗𝖗𝖊𝖘𝖕𝖔𝖓𝖉𝖊𝖓𝖙
 
-*somewhere between silence and static.*
-
-Greetings, wanderer. You may call me **Terch** or **Louise**.
-
-A quiet presence drawn to art, peculiar stories, nostalgia, and creating little worlds.
-
-`[ IDENTITY: PARTIALLY REDACTED ]`
+*An archive of uncertain origin.*
 
 ---
 
-### 02 // BEFORE YOU INTERACT
+**Good evening, dear stranger.**
 
-Kindness and mutual respect are appreciated.
+I must say, your arrival is rather unexpected.
 
-I may be quiet or slow to reply. Please don't mistake silence for hostility.
+According to the official records, this particular page has remained unoccupied for quite some time. Nevertheless, I suppose it would be terribly impolite to question how you came to discover it.
 
-`[ INTERACTION: WELCOME ]`
+You are welcome to remain, provided you understand that not everything contained within these walls is intended for public examination.
 
----
+I trust we shall have no difficulties.
 
-### 03 // BASIC DNI
+*— The Unregistered Correspondent*
 
-<div align="left">
+# 𝕯𝖊𝖕𝖆𝖗𝖙𝖒𝖊𝖓𝖙𝖆𝖑 𝕻𝖗𝖔𝖙𝖔𝖈𝖔𝖑
 
-**Please do not interact if you:**
+*TERMS OF CONTACT*
+━━━━━━━━━━━━━━━━━━━━
 
-- Are deliberately rude, hostile, or disrespectful.
-- Harass, bully, discriminate, or spread hatred.
-- Intentionally provoke drama or disregard boundaries.
-- Invade privacy, manipulate, or pressure others.
-- Make unwanted inappropriate remarks.
-- Steal or claim others' creative work.
+**A NOTICE TO ALL VISITORS**
 
-</div>
+Before proceeding, you are kindly requested to acquaint yourself with the following regulations.
 
-*Different opinions are welcome. Disrespect is not.*
+I do not consider myself an unreasonable individual. Nevertheless, certain standards must be maintained, particularly when dealing with persons whose intentions remain unknown.
 
-`[ BOUNDARY PROTOCOL: ACTIVE ]`
+**I. ON THE MATTER OF CIVILITY**
 
----
+You are expected to conduct yourself with a reasonable degree of courtesy. A sharp wit is perfectly acceptable; deliberate cruelty is not. I should prefer that we distinguish between the two.
 
-### 04 // FINAL TRANSMISSION
+**II. ON THE MATTER OF PRIVACY**
 
-You may stay, observe, or simply pass through.
+Personal information is not a public exhibit. Kindly refrain from requesting details concerning my identity, whereabouts, private affairs, or anything else I have elected not to disclose.
 
-*some things are better left unknown.*
+Curiosity is understandable. Persistence, after a refusal, is rather less charming.
 
-`[ END OF TRANSMISSION ]`
+**III. ON THE MATTER OF CORRESPONDENCE**
+
+You are welcome to initiate conversation, although I cannot guarantee an immediate reply. My availability is inconsistent, and I reserve the right to withdraw without providing a detailed explanation.
+
+Silence is not necessarily a dismissal.
+
+**IV. ON THE MATTER OF FAMILIARITY**
+
+Please do not presume that a pleasant exchange establishes an intimate acquaintance. Friendship is neither demanded nor granted upon first contact.
+
+Allow matters to develop at their own pace.
+
+**V. ON THE MATTER OF SPECULATION**
+
+Appearances, mannerisms, and passing remarks are insufficient evidence upon which to construct an entire identity. I would appreciate it if you refrained from treating your assumptions as established facts.
+
+**VI. ON THE MATTER OF UNWELCOME BEHAVIOUR**
+
+Harassment, discrimination, invasive questioning, and deliberate provocation will not be entertained. Those who repeatedly disregard these boundaries may find further correspondence discontinued.
+
+No formal appeal shall be necessary.
+
+**VII. ON THE MATTER OF DEPARTURE**
+
+Should either party wish to conclude an interaction, they may do so without ceremony. I have never understood the peculiar insistence that every farewell must become an occasion.
+
+A quiet departure is perfectly respectable.
+
+**VIII. ON THE MATTER OF CONFIDENTIALITY**
+
+If something has been entrusted to you in confidence, I should expect you to treat it accordingly. Private conversations are not material for public entertainment.
+
+Discretion, after all, is a most admirable quality.
+
+━━━━━━━━━━━━━━━━━━━━
+
+**FINAL NOTICE**
+
+That concludes the regulations.
+
+I trust you shall find them neither excessively demanding nor particularly difficult to observe.
+
+You may proceed at your discretion.
+
+Do remember, however, that access is not the same as permission.
+
+
 
 </details>
 

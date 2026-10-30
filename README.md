@@ -20,10 +20,6 @@
 
 `identity: undisclosed` · `signal: faint` · `presence: unknown`
 
-[⟡ follow the faint signal ⟡](https://terch-z3l0uis.github.io/Zelouiserch/)
-
-[⌁ enter the other side ⌁](https://vlovlouisesite.straw.page/)
-
 
 
 <details>

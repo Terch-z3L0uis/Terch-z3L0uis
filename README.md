@@ -18,8 +18,6 @@
 *❦ A correspondence recovered from an unmarked archive. ❦*
 
 </div>
-##
-
 <div align="center">
 
 *some things are meant to be found, not explained.*

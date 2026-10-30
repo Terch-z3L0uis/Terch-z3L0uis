@@ -1,8 +1,16 @@
 
+
 <div align="center">
 
-  <img src="download-removebg-preview.png" width="42%" alt="Archive photograph 001">
-  <img src="trigun-chaos.jpg" width="42%" alt="Archive photograph 002">
+  <img src="download-removebg-preview.png"
+       width="45%"
+       alt="Classified photograph">
+
+  <p><i>❦ A fragment of a forgotten memory. ❦</i></p>
+
+  <sub>[ FILE NO. 001 — IDENTITY WITHHELD ]</sub>
+
+</div>
 
 
   <p><i>❦ Two fragments recovered from the same forgotten archive. ❦</i></p>

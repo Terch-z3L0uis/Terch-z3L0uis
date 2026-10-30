@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="The%20Last%20Witness_%20Unregistered%20Archive.png" alt="The Last Witness — Unregistered Archive" width="65%">
+  <img src="The%20Last%20Witness_%20Unregistered%20Archive.png" alt="The Last Witness — Unregistered Archive" width="75%">
 </div>
 
 <div align="center">

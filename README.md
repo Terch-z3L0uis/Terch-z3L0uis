@@ -3,15 +3,7 @@
   <img src="The%20Last%20Witness_%20Unregistered%20Archive.png" alt="The Last Witness — Unregistered Archive" width="75%">
 </div>
 
-<div align="center">
 
-# ༺ 𝔗𝔥𝔢 𝔏𝔞𝔰𝔱 𝔚𝔦𝔱𝔫𝔢𝔰𝔰 ༻
-
-**✦ MANUSCRIPT NO. 001 ✦**
-
-*“Some things are better left unwritten.”*
-
-❦ ─── ⋆ ☾ ⋆ ─── ❦
 
 </div>
 

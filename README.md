@@ -6,7 +6,7 @@
        width="45%"
        alt="Classified photograph">
 
-  <p><i>❦  A fragment of a forgotten memory.  ❦</i></p>
+  <p><i>❦  𝕬 𝖋𝖗𝖆𝖌𝖒𝖊𝖓𝖙 𝖔𝖋 𝖆 𝖋𝖔𝖗𝖌𝖔𝖙𝖙𝖊𝖓 𝖒𝖊𝖒𝖔𝖗𝖞.   ❦</i></p>
 
   <sub>[ FILE NO. 001 — IDENTITY WITHHELD ]</sub>
 

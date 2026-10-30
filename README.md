@@ -13,6 +13,15 @@
 
 <div align="center">
 
+<sub>EST. UNKNOWN · ORIGIN UNVERIFIED · RECORD INCOMPLETE</sub>
+
+*❦ A correspondence recovered from an unmarked archive. ❦*
+
+</div>
+
+
+<div align="center">
+
 # somewhere between silence and static.
 *some things are meant to be found, not explained.*
 

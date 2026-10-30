@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="The%20Last%20Witness_%20Unregistered%20Archive.png" alt="The Last Witness — Unregistered Archive" width="100%">
+</div>
+
+<div align="center">
 
 # ༺ 𝔗𝔥𝔢 𝔏𝔞𝔰𝔱 𝔚𝔦𝔱𝔫𝔢𝔰𝔰 ༻
 

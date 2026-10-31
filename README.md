@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="download.gif" alt="The Haunted Archive" width="407">
+  <img src="download.gif" alt="The Haunted Archive" width="409">
 </div>
 
 

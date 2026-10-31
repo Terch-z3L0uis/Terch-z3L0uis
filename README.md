@@ -44,8 +44,6 @@
 </details>
 
 
-`[ transmission received ]`
-
 <details>
 <summary>▸ classified file // 002</summary>
 

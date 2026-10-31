@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="download-removebg-preview.png"
+  <img src="The Last Witness_ An Antique Archive Title.png"
        width="45%"
        alt="Classified photograph">
 

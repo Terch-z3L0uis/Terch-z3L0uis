@@ -3,7 +3,7 @@
 <div align="center">
 
   <img src="The Last Witness_ An Antique Archive Title.png"
-       width="45%"
+       width="35%"
        alt="Classified photograph">
 
 

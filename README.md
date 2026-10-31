@@ -82,7 +82,7 @@ behind the static, something softer survives.
 
 <div align="center">
 
-![The Haunted Archive](Jumping Cat.gif)
+(Jumping Cat.gif)
 
 </div>
 

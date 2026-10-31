@@ -44,8 +44,6 @@
 </details>
 
 
-if you found this, the signal was meant for you.
-
 `[ transmission received ]`
 
 <details>

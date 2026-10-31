@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  <img src="The Last Witness_ An Antique Archive Title.png"
+  <img src="#art_ #game.jpg"
        width="45%"
        alt="Classified photograph">
 

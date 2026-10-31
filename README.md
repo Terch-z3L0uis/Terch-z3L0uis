@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  <img src="#art_ #game.jpg"
+  <img src="#art_ #game.png"
        width="45%"
        alt="Classified photograph">
 

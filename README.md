@@ -8,8 +8,10 @@
 
 
 <div align="center">
-  <img src="transparent kitty.gif" alt="ghosty" width="300">
-</div>
+
+  <img src="The Last Witness_ An Antique Archive Title.png"
+       width="45%"
+       alt="Classified photograph">
 
  
   <p><i>❦  𝕬 𝖋𝖗𝖆𝖌𝖒𝖊𝖓𝖙 𝖔𝖋 𝖆 𝖋𝖔𝖗𝖌𝖔𝖙𝖙𝖊𝖓 𝖒𝖊𝖒𝖔𝖗𝖞.   ❦</i></p>

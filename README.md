@@ -80,10 +80,9 @@ behind the static, something softer survives.
 </details>
 
 
+
 <div align="center">
-
-(Jumping Cat.gif)
-
+  <img src="Jumping Cat.gif" alt="The Haunted Archive" width="500">
 </div>
 
 

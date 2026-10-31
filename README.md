@@ -82,8 +82,9 @@ behind the static, something softer survives.
 </details>
 
 
+
 <div align="center">
-  <img src="download(1).gif" width="250">
+  <img src="./download%281%29.gif" width="250" alt="Haunted archive animation">
 </div>
 
 

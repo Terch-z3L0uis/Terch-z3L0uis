@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="transparent cat" alt="ghosty" width="500">
+  <img src="transparent kitty.gif" alt="ghosty" width="500">
 </div>
 
  

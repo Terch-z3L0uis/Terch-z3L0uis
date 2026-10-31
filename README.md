@@ -6,6 +6,11 @@
        width="45%"
        alt="Classified photograph">
 
+
+<div align="center">
+  <img src="transparent cat" alt="ghosty" width="500">
+</div>
+
  
   <p><i>❦  𝕬 𝖋𝖗𝖆𝖌𝖒𝖊𝖓𝖙 𝖔𝖋 𝖆 𝖋𝖔𝖗𝖌𝖔𝖙𝖙𝖊𝖓 𝖒𝖊𝖒𝖔𝖗𝖞.   ❦</i></p>
   <sub>EST. UNKNOWN · ORIGIN UNVERIFIED · RECORD INCOMPLETE</sub>

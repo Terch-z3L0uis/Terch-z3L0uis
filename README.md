@@ -85,6 +85,7 @@ behind the static, something softer survives.
 <div align="center">
   <img src="download(1).gif" alt="The Haunted Archive" width="409">
 </div>
+
 ![silent observers](https://komarev.com/ghpvc/?username=Terch-z3L0uis&label=observers&color=555555&style=flat-square)
 
 

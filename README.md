@@ -45,6 +45,11 @@
 <br>
 
 
+<!-- BOTTOM: Secret message -->
+<div align="center">
+
+  <sub>✧ one remains unseen, the other dreams in pink ✧</sub>
+
 <!-- STRAW.PAGE — tiny sleeping companions -->
 <div align="center">
 
@@ -63,11 +68,6 @@
 
 <br>
 
-
-<!-- BOTTOM: Secret message -->
-<div align="center">
-
-  <sub>✧ one remains unseen, the other dreams in pink ✧</sub>
 
   <p><i>not every door leads to the same world.</i></p>
 

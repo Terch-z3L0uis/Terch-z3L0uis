@@ -59,7 +59,7 @@
 <img src="Dan%20%26%20Ver%20bg%20remove.png" alt="Visit my Straw.page" width="180">
 </a>
 <br>
-<sub>𓂃 leave a little message ♡</sub>
+<sub>𓂃 ࣪˖ ִֶָ𐀔 leave a little message ♡</sub>
 </td>
 </tr>
 </table>

@@ -44,6 +44,26 @@
 
 <br>
 
+
+<!-- STRAW.PAGE — tiny sleeping companions -->
+<div align="center">
+
+  <a href="https://vlovlouisesite.straw.page/">
+    <img
+      src="Dan%20%26%20Ver%20bg%20remove.png"
+      alt="Visit my Straw.page ♡"
+      width="180"
+    />
+  </a>
+
+  <br>
+  <sub>𓂃 ࣪˖ ִֶָ𐀔 leave a little message ♡</sub>
+
+</div>
+
+<br>
+
+
 <!-- BOTTOM: Secret message -->
 <div align="center">
 

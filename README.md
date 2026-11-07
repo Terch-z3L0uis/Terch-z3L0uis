@@ -50,7 +50,8 @@
 
   <sub>✧ one remains unseen, the other dreams in pink ✧</sub>
 
-<!-- STRAW.PAGE — tiny sleeping companions -->
+
+<!-- STRAW.PAGE — sleeping companions -->
 <div align="center">
 
   <a href="https://vlovlouisesite.straw.page/">
@@ -58,15 +59,17 @@
       src="Dan%20%26%20Ver%20bg%20remove.png"
       alt="Visit my Straw.page ♡"
       width="180"
+      style="border: 2px solid #b99a83; border-radius: 0;"
     />
   </a>
 
   <br>
-  <sub>𓂃 ࣪˖ ִֶָ𐀔 leave a little message ♡</sub>
+  <sub>𓂃 leave a little message ♡</sub>
 
 </div>
 
 <br>
+
 
 
   <p><i>not every door leads to the same world.</i></p>

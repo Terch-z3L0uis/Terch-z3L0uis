@@ -51,22 +51,26 @@
   <sub>✧ one remains unseen, the other dreams in pink ✧</sub>
 
 
+
 <!-- STRAW.PAGE — Dan & Ver -->
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="220">
 
-  <a href="https://vlovlouisesite.straw.page/">
-    <img
-      src="Dan%20%26%20Ver%20bg%20remove.png"
-      alt="Visit my Straw.page ♡"
-      width="180"
-      style="border: 1px solid #333333; border-radius: 0; padding: 12px;"
-    />
-  </a>
+      <a href="https://vlovlouisesite.straw.page/">
+        <img
+          src="Dan%20%26%20Ver%20bg%20remove.png"
+          alt="Visit my Straw.page"
+          width="180"
+        />
+      </a>
 
-  <br>
-  <sub>𓂃 leave a little message ♡</sub>
+      <br>
+      <sub>𓂃 leave a little message ♡</sub>
 
-</div>
+    </td>
+  </tr>
+</table>
 
 <br>
 

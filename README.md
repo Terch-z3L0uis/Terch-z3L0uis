@@ -51,7 +51,8 @@
   <sub>✧ one remains unseen, the other dreams in pink ✧</sub>
 
 
-<!-- STRAW.PAGE — sleeping companions -->
+
+<!-- STRAW.PAGE — Dan & Ver -->
 <div align="center">
 
   <a href="https://vlovlouisesite.straw.page/">
@@ -59,12 +60,17 @@
       src="Dan%20%26%20Ver%20bg%20remove.png"
       alt="Visit my Straw.page ♡"
       width="180"
-      style="border: 2px solid #b99a83; border-radius: 0;"
+      style="border: 1px solid #333333; border-radius: 0; padding: 12px;"
     />
   </a>
 
   <br>
   <sub>𓂃 leave a little message ♡</sub>
+
+</div>
+
+<br>
+
 
 </div>
 

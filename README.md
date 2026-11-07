@@ -7,11 +7,6 @@
        alt="Classified photograph">
 
 
-<div align="center">
-  <img src="download.gif" alt="The Haunted Archive" width="409">
-</div>
-
-
  
   <p><i>❦  𝕬 𝖋𝖗𝖆𝖌𝖒𝖊𝖓𝖙 𝖔𝖋 𝖆 𝖋𝖔𝖗𝖌𝖔𝖙𝖙𝖊𝖓 𝖒𝖊𝖒𝖔𝖗𝖞.   ❦</i></p>
   <sub>EST. UNKNOWN · ORIGIN UNVERIFIED · RECORD INCOMPLETE</sub>

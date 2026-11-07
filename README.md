@@ -51,7 +51,6 @@
   <sub>✧ one remains unseen, the other dreams in pink ✧</sub>
 
 
-
 <!-- STRAW.PAGE — Dan & Ver -->
 <div align="center">
 
@@ -70,13 +69,6 @@
 </div>
 
 <br>
-
-
-
-</div>
-
-<br>
-
 
 
   <p><i>not every door leads to the same world.</i></p>

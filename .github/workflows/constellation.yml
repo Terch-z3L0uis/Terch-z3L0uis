@@ -25,7 +25,11 @@ jobs:
         with:
           python-version: "3.12"
 
+      
       - name: Generate constellation
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: Terch-z3L0uis
         run: python scripts/constellation.py
 
       - name: Save constellation to repository

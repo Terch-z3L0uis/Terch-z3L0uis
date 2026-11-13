@@ -104,31 +104,6 @@ width="170">
 
 <br>
 
-<!-- OBSERVER LOG -->
-<div align="center">
-<h3>☾ 001 — observer's log ☽</h3>
-<sub>the archive contains things that were never said.</sub>
-</div>
-
-<details>
-<summary>🕯️ Open entry — the unnamed narrator</summary>
-
-<br>
-
-> the screen flickers.
->
-> a thousand stories pass unnoticed.
->
-> somewhere, a narrator remains unnamed.
-
-`status: present, but unidentified.`
-
-</details>
-
-<details>
-<summary>🌙 Open entry 002 — the other world</summary>
-
-<br>
 
 
 <!-- FUTURE GIF AND STICKER AREA -->

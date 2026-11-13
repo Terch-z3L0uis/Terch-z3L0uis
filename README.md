@@ -212,3 +212,20 @@ Leave an anonymous message
 <div align="center">
 <sub>☾ END OF TRANSMISSION · FOR NOW ☽</sub>
 </div>
+
+
+<!-- THE OBSERVER'S CONSTELLATION -->
+<div align="center">
+
+### ☾ THE OBSERVER'S SKY ☽
+
+<img src="assets/constellation.svg"
+     alt="The Observer's Constellation"
+     width="800">
+
+<sub>✦ Every star holds a little memory. ✦</sub>
+
+</div>
+
+<br>
+

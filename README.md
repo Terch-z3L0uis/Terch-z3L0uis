@@ -111,7 +111,7 @@ width="170">
 </div>
 
 <details>
-<summary>🕯️ Open entry 001 — the unnamed narrator</summary>
+<summary>🕯️ Open entry — the unnamed narrator</summary>
 
 <br>
 
@@ -130,34 +130,6 @@ width="170">
 
 <br>
 
-> beyond the silence,
->
-> there is a little world made of pink skies,
->
-> golden stars, and impossible daydreams.
-
-<a href="https://terch-z3l0uis.github.io/Zelouiserch/">
-Enter the other world ♡
-</a>
-
-</details>
-
-<details>
-<summary>✉ Open entry 003 — unsent letters</summary>
-
-<br>
-
-> perhaps not every message needs an answer.
->
-> sometimes, being heard is enough.
-
-<a href="https://vlovlouisesite.straw.page/">
-Leave an anonymous message
-</a>
-
-</details>
-
-<br>
 
 <!-- FUTURE GIF AND STICKER AREA -->
 <table align="center">

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="340" viewBox="0 0 840 340" role="img" aria-labelledby="title desc">
+<title id="title">The Unsent Archive — Observer Protocol</title>
+<desc id="desc">A dark vintage computer terminal reveals five mysterious archive messages one by one.</desc>
+<rect width="840" height="340" rx="18" fill="#12151a"/>
+<rect x="2" y="2" width="836" height="336" rx="16" fill="none" stroke="#8a7059" stroke-width="2"/>
+<rect x="18" y="18" width="804" height="46" rx="8" fill="#24242a"/>
+<circle cx="42" cy="41" r="7" fill="#b97973"/>
+<circle cx="64" cy="41" r="7" fill="#c9a76d"/>
+<circle cx="86" cy="41" r="7" fill="#85a18b"/>
+<text x="420" y="47" text-anchor="middle" fill="#f0d2a5" font-family="monospace" font-size="19" font-weight="bold">OBSERVER_PROTOCOL.exe</text>
+<path d="M30 82 H810" stroke="#655441" stroke-width="1"/>
+<g fill="#dfbf93" font-family="monospace" font-size="22">
+<text x="42" y="125" opacity="0">&gt; INITIALIZING ARCHIVE...<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.04;0.05;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="42" y="163" opacity="0">&gt; CONNECTION ESTABLISHED<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.20;0.21;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="42" y="201" opacity="0">&gt; OBSERVER: [REDACTED]<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.36;0.37;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="42" y="239" opacity="0">&gt; TWO IDENTITIES DETECTED<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.52;0.53;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="42" y="277" opacity="0">&gt; WELCOME, STRANGER.<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.68;0.69;1" dur="12s" repeatCount="indefinite"/></text>
+</g>
+<rect x="42" y="293" width="12" height="20" fill="#f0d2a5"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<text x="790" y="314" text-anchor="end" fill="#a79782" font-family="monospace" font-size="12">THE UNSENT ARCHIVE // 001</text>
+</svg>

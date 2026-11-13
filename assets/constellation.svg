@@ -1,15 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="350" viewBox="0 0 840 350">
+<defs><filter id="line-glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter></defs>
 <rect width="840" height="350" rx="18" fill="#101521"/>
 <rect x="2" y="2" width="836" height="346" rx="16" fill="none" stroke="#76654e" stroke-width="2"/>
 <text x="420" y="48" text-anchor="middle" fill="#e8c99a" font-family="monospace" font-size="24">THE OBSERVER&#39;S SKY</text>
-<line x1="502" y1="190" x2="575" y2="237" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
-<line x1="575" y1="237" x2="721" y2="156" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
-<line x1="721" y1="156" x2="175" y2="122" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
-<line x1="175" y1="122" x2="248" y2="169" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
-<line x1="248" y1="169" x2="759" y2="148" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
-<line x1="759" y1="148" x2="286" y2="161" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
-<line x1="286" y1="161" x2="359" y2="208" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
-<line x1="359" y1="208" x2="432" y2="255" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
+<line x1="502" y1="190" x2="575" y2="237" stroke="#f0c782" stroke-width="5" opacity="0.13" filter="url(#line-glow)"><animate attributeName="opacity" values="0.08;0.38;0.08" dur="3.60s" begin="-0.00s" repeatCount="indefinite"/></line>
+<line x1="502" y1="190" x2="575" y2="237" stroke="#e8c99a" stroke-width="0.9" opacity="0.28"><animate attributeName="opacity" values="0.22;0.75;0.22" dur="3.60s" begin="-0.00s" repeatCount="indefinite"/></line>
+<line x1="575" y1="237" x2="721" y2="156" stroke="#f0c782" stroke-width="5" opacity="0.13" filter="url(#line-glow)"><animate attributeName="opacity" values="0.08;0.38;0.08" dur="4.10s" begin="-0.83s" repeatCount="indefinite"/></line>
+<line x1="575" y1="237" x2="721" y2="156" stroke="#e8c99a" stroke-width="0.9" opacity="0.28"><animate attributeName="opacity" values="0.22;0.75;0.22" dur="4.10s" begin="-0.83s" repeatCount="indefinite"/></line>
+<line x1="721" y1="156" x2="175" y2="122" stroke="#f0c782" stroke-width="5" opacity="0.13" filter="url(#line-glow)"><animate attributeName="opacity" values="0.08;0.38;0.08" dur="4.60s" begin="-1.66s" repeatCount="indefinite"/></line>
+<line x1="721" y1="156" x2="175" y2="122" stroke="#e8c99a" stroke-width="0.9" opacity="0.28"><animate attributeName="opacity" values="0.22;0.75;0.22" dur="4.60s" begin="-1.66s" repeatCount="indefinite"/></line>
+<line x1="175" y1="122" x2="248" y2="169" stroke="#f0c782" stroke-width="5" opacity="0.13" filter="url(#line-glow)"><animate attributeName="opacity" values="0.08;0.38;0.08" dur="5.10s" begin="-2.49s" repeatCount="indefinite"/></line>
+<line x1="175" y1="122" x2="248" y2="169" stroke="#e8c99a" stroke-width="0.9" opacity="0.28"><animate attributeName="opacity" values="0.22;0.75;0.22" dur="5.10s" begin="-2.49s" repeatCount="indefinite"/></line>
+<line x1="248" y1="169" x2="759" y2="148" stroke="#f0c782" stroke-width="5" opacity="0.13" filter="url(#line-glow)"><animate attributeName="opacity" values="0.08;0.38;0.08" dur="5.60s" begin="-3.32s" repeatCount="indefinite"/></line>
+<line x1="248" y1="169" x2="759" y2="148" stroke="#e8c99a" stroke-width="0.9" opacity="0.28"><animate attributeName="opacity" values="0.22;0.75;0.22" dur="5.60s" begin="-3.32s" repeatCount="indefinite"/></line>
+<line x1="759" y1="148" x2="286" y2="161" stroke="#f0c782" stroke-width="5" opacity="0.13" filter="url(#line-glow)"><animate attributeName="opacity" values="0.08;0.38;0.08" dur="6.10s" begin="-4.15s" repeatCount="indefinite"/></line>
+<line x1="759" y1="148" x2="286" y2="161" stroke="#e8c99a" stroke-width="0.9" opacity="0.28"><animate attributeName="opacity" values="0.22;0.75;0.22" dur="6.10s" begin="-4.15s" repeatCount="indefinite"/></line>
+<line x1="286" y1="161" x2="359" y2="208" stroke="#f0c782" stroke-width="5" opacity="0.13" filter="url(#line-glow)"><animate attributeName="opacity" values="0.08;0.38;0.08" dur="3.60s" begin="-1.38s" repeatCount="indefinite"/></line>
+<line x1="286" y1="161" x2="359" y2="208" stroke="#e8c99a" stroke-width="0.9" opacity="0.28"><animate attributeName="opacity" values="0.22;0.75;0.22" dur="3.60s" begin="-1.38s" repeatCount="indefinite"/></line>
+<line x1="359" y1="208" x2="432" y2="255" stroke="#f0c782" stroke-width="5" opacity="0.13" filter="url(#line-glow)"><animate attributeName="opacity" values="0.08;0.38;0.08" dur="4.10s" begin="-1.71s" repeatCount="indefinite"/></line>
+<line x1="359" y1="208" x2="432" y2="255" stroke="#e8c99a" stroke-width="0.9" opacity="0.28"><animate attributeName="opacity" values="0.22;0.75;0.22" dur="4.10s" begin="-1.71s" repeatCount="indefinite"/></line>
 <circle cx="502" cy="190" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-10-24: 15 contributions</title><animate attributeName="opacity" values="0.55;1.00;0.55" dur="2.80s" begin="-0.00s" repeatCount="indefinite"/></circle>
 <circle cx="575" cy="237" r="5.6" fill="#f5dbac" opacity="0.97"><title>2026-10-25: 10 contributions</title><animate attributeName="opacity" values="0.53;1.00;0.53" dur="3.25s" begin="-1.37s" repeatCount="indefinite"/></circle>
 <circle cx="721" cy="156" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-10-27: 31 contributions</title><animate attributeName="opacity" values="0.55;1.00;0.55" dur="3.70s" begin="-2.74s" repeatCount="indefinite"/></circle>
@@ -18,7 +27,7 @@
 <circle cx="759" cy="148" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-11-07: 21 contributions</title><animate attributeName="opacity" values="0.55;1.00;0.55" dur="5.05s" begin="-1.80s" repeatCount="indefinite"/></circle>
 <circle cx="286" cy="161" r="5.1" fill="#f5dbac" opacity="0.91"><title>2026-11-11: 7 contributions</title><animate attributeName="opacity" values="0.50;1.00;0.50" dur="5.50s" begin="-2.72s" repeatCount="indefinite"/></circle>
 <circle cx="359" cy="208" r="3.5" fill="#f5dbac" opacity="0.74"><title>2026-11-12: 2 contributions</title><animate attributeName="opacity" values="0.41;0.86;0.41" dur="2.80s" begin="-1.19s" repeatCount="indefinite"/></circle>
-<circle cx="432" cy="255" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-11-13: 15 contributions</title><animate attributeName="opacity" values="0.55;1.00;0.55" dur="3.25s" begin="-1.21s" repeatCount="indefinite"/></circle>
-<text x="420" y="304" text-anchor="middle" fill="#d4bd98" font-family="monospace" font-size="15">166 contributions &#183; 9 active days &#183; last 90 days</text>
+<circle cx="432" cy="255" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-11-13: 18 contributions</title><animate attributeName="opacity" values="0.55;1.00;0.55" dur="3.25s" begin="-1.21s" repeatCount="indefinite"/></circle>
+<text x="420" y="304" text-anchor="middle" fill="#d4bd98" font-family="monospace" font-size="15">169 contributions &#183; 9 active days &#183; last 90 days</text>
 <text x="420" y="328" text-anchor="middle" fill="#958875" font-family="monospace" font-size="12">Every star holds a little memory.</text>
 </svg>

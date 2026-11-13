@@ -50,12 +50,38 @@ def make_svg(activity):
         radius = min(6, 1.8 + math.log2(count + 1) * 1.1)
         opacity = min(1, 0.55 + math.log2(count + 1) * 0.12)
         stars.append((x, y, radius, opacity, day, count))
-    pieces = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">', '<rect width="840" height="350" rx="18" fill="#101521"/>', '<rect x="2" y="2" width="836" height="346" rx="16" fill="none" stroke="#76654e" stroke-width="2"/>', '<text x="420" y="48" text-anchor="middle" fill="#e8c99a" font-family="monospace" font-size="24">THE OBSERVER&#39;S SKY</text>']
-    for a, b in zip(stars, stars[1:]):
-        pieces.append(f'<line x1="{a[0]}" y1="{a[1]}" x2="{b[0]}" y2="{b[1]}" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>')
+
+    pieces = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
+        '<defs><filter id="line-glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter></defs>',
+        '<rect width="840" height="350" rx="18" fill="#101521"/>',
+        '<rect x="2" y="2" width="836" height="346" rx="16" fill="none" stroke="#76654e" stroke-width="2"/>',
+        '<text x="420" y="48" text-anchor="middle" fill="#e8c99a" font-family="monospace" font-size="24">THE OBSERVER&#39;S SKY</text>'
+    ]
+
+    # Draw each connection twice: a blurred halo beneath a crisp golden line.
+    # Animations pulse at slightly different rates for a soft celestial effect.
+    for i, (a, b) in enumerate(zip(stars, stars[1:])):
+        x1, y1, x2, y2 = a[0], a[1], b[0], b[1]
+        duration = 3.6 + (i % 6) * 0.5
+        delay = -((i * 0.83) % duration)
+        pieces.append(
+            f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" '
+            f'stroke="#f0c782" stroke-width="5" opacity="0.13" filter="url(#line-glow)">'
+            f'<animate attributeName="opacity" values="0.08;0.38;0.08" '
+            f'dur="{duration:.2f}s" begin="{delay:.2f}s" repeatCount="indefinite"/>'
+            f'</line>'
+        )
+        pieces.append(
+            f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" '
+            f'stroke="#e8c99a" stroke-width="0.9" opacity="0.28">'
+            f'<animate attributeName="opacity" values="0.22;0.75;0.22" '
+            f'dur="{duration:.2f}s" begin="{delay:.2f}s" repeatCount="indefinite"/>'
+            f'</line>'
+        )
+
     for i, (x, y, r, opacity, day, count) in enumerate(stars):
-        # Each star has its own twinkle speed and delay.
-        # The static circle remains visible if SVG animation is unsupported.
+        # Existing contribution-based stars and their independent twinkling.
         low = max(0.25, opacity * 0.55)
         high = min(1.0, opacity + 0.12)
         duration = 2.8 + (i % 7) * 0.45
@@ -69,7 +95,11 @@ def make_svg(activity):
         )
     if not stars:
         pieces.append('<text x="420" y="165" text-anchor="middle" fill="#c6b393" font-family="monospace" font-size="18">The sky awaits its first star...</text>')
-    pieces.extend([f'<text x="420" y="304" text-anchor="middle" fill="#d4bd98" font-family="monospace" font-size="15">{total} contributions &#183; {len(stars)} active days &#183; last {DAYS} days</text>', '<text x="420" y="328" text-anchor="middle" fill="#958875" font-family="monospace" font-size="12">Every star holds a little memory.</text>', '</svg>'])
+    pieces.extend([
+        f'<text x="420" y="304" text-anchor="middle" fill="#d4bd98" font-family="monospace" font-size="15">{total} contributions &#183; {len(stars)} active days &#183; last {DAYS} days</text>',
+        '<text x="420" y="328" text-anchor="middle" fill="#958875" font-family="monospace" font-size="12">Every star holds a little memory.</text>',
+        '</svg>'
+    ])
     return '\n'.join(pieces)
 
 if __name__ == '__main__':

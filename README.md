@@ -17,6 +17,24 @@ width="850">
 
 <br>
 
+
+<!-- OBSERVER PROTOCOL — ANIMATED TERMINAL -->
+<div align="center">
+
+  <img
+    src="observer-terminal.svg"
+    alt="The Unsent Archive animated terminal"
+    width="720"
+  />
+
+  <br>
+
+  <sub>☾ transmission received from an unknown observer ☽</sub>
+
+</div>
+
+<br>
+
 <!-- TWO IDENTITIES -->
 <table align="center">
 <tr>

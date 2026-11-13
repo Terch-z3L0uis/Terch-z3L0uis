@@ -1,160 +1,24 @@
-
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="800" height="300"
-     viewBox="0 0 800 300">
-
-<rect width="100%" height="100%"
-      rx="18" fill="#101521"/>
-
-<text x="400" y="42"
-      text-anchor="middle"
-      fill="#e8c99a"
-      font-family="monospace"
-      font-size="23">
-  THE OBSERVER'S SKY
-</text>
-
-    <circle cx="361" cy="108" r="4"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="696" cy="82" r="1"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="578" cy="94" r="3"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="626" cy="84" r="2"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="68" cy="92" r="4"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="458" cy="87" r="2"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="122" cy="211" r="4"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="90" cy="214" r="1"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="258" cy="231" r="1"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="620" cy="219" r="4"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="80" cy="126" r="1"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="600" cy="104" r="3"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="459" cy="106" r="1"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="614" cy="148" r="2"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="135" cy="218" r="2"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="411" cy="94" r="1"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="607" cy="85" r="2"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="538" cy="244" r="4"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="351" cy="189" r="4"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="400" cy="146" r="2"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="214" cy="248" r="2"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="113" cy="217" r="3"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="567" cy="196" r="3"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="489" cy="143" r="1"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="150" cy="201" r="4"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="198" cy="157" r="2"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="530" cy="177" r="1"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="714" cy="89" r="3"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="378" cy="247" r="3"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="638" cy="197" r="4"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="100" cy="93" r="3"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="515" cy="248" r="1"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="92" cy="249" r="3"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="692" cy="217" r="4"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="321" cy="253" r="4"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="714" cy="158" r="1"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="502" cy="160" r="2"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="655" cy="99" r="4"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="90" cy="125" r="3"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="162" cy="133" r="4"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="430" cy="197" r="1"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="200" cy="184" r="4"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="592" cy="141" r="2"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="470" cy="210" r="3"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-    <circle cx="753" cy="176" r="3"
-            fill="#f3d9aa" opacity="0.85"/>
-    
-<text x="400" y="280"
-      text-anchor="middle"
-      fill="#b9a88e"
-      font-family="monospace"
-      font-size="14">
-  Every star holds a little memory.
-</text>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="350" viewBox="0 0 840 350">
+<rect width="840" height="350" rx="18" fill="#101521"/>
+<rect x="2" y="2" width="836" height="346" rx="16" fill="none" stroke="#76654e" stroke-width="2"/>
+<text x="420" y="48" text-anchor="middle" fill="#e8c99a" font-family="monospace" font-size="24">THE OBSERVER&#39;S SKY</text>
+<line x1="502" y1="190" x2="575" y2="237" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
+<line x1="575" y1="237" x2="721" y2="156" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
+<line x1="721" y1="156" x2="175" y2="122" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
+<line x1="175" y1="122" x2="248" y2="169" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
+<line x1="248" y1="169" x2="759" y2="148" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
+<line x1="759" y1="148" x2="286" y2="161" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
+<line x1="286" y1="161" x2="359" y2="208" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
+<line x1="359" y1="208" x2="432" y2="255" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
+<circle cx="502" cy="190" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-10-24: 15 contributions</title><animate attributeName="opacity" values="1.00;0.35;1.00" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="575" cy="237" r="5.6" fill="#f5dbac" opacity="0.97"><title>2026-10-25: 10 contributions</title><animate attributeName="opacity" values="0.97;0.35;0.97" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="721" cy="156" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-10-27: 31 contributions</title><animate attributeName="opacity" values="1.00;0.35;1.00" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="175" cy="122" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-10-30: 25 contributions</title><animate attributeName="opacity" values="1.00;0.35;1.00" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="248" cy="169" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-10-31: 40 contributions</title><animate attributeName="opacity" values="1.00;0.35;1.00" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="759" cy="148" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-11-07: 21 contributions</title><animate attributeName="opacity" values="1.00;0.35;1.00" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="286" cy="161" r="5.1" fill="#f5dbac" opacity="0.91"><title>2026-11-11: 7 contributions</title><animate attributeName="opacity" values="0.91;0.35;0.91" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="359" cy="208" r="3.5" fill="#f5dbac" opacity="0.74"><title>2026-11-12: 2 contributions</title><animate attributeName="opacity" values="0.74;0.35;0.74" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="432" cy="255" r="5.9" fill="#f5dbac" opacity="0.99"><title>2026-11-13: 12 contributions</title><animate attributeName="opacity" values="0.99;0.35;0.99" dur="6s" repeatCount="indefinite"/></circle>
+<text x="420" y="304" text-anchor="middle" fill="#d4bd98" font-family="monospace" font-size="15">163 contributions &#183; 9 active days &#183; last 90 days</text>
+<text x="420" y="328" text-anchor="middle" fill="#958875" font-family="monospace" font-size="12">Every star holds a little memory.</text>
 </svg>

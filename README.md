@@ -1,15 +1,4 @@
 
-<!-- THE UNSENT ARCHIVE -->
-
-<div align="center">
-
-  <!-- TOP: Main title -->
-  <img
-    src="Vintage Moonlit Scrapbook Header.png"
-    alt="Terchzeslouise — an anonymous observer"
-    width="850"
-  />
-
   <p><i>somewhere between silence and a daydream...</i></p>
 
   <sub>✦ two names, two worlds, one observer ✦</sub>

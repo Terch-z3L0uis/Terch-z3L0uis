@@ -1,137 +1,196 @@
 
-<!-- THE UNSENT ARCHIVE -->
+<!-- ======================================= -->
+<!-- THE UNSENT ARCHIVE — PROFILE README    -->
+<!-- ======================================= -->
 
 <div align="center">
 
-<img src="Vintage Moonlit Scrapbook Header.png" alt="Terchzeslouise" width="850">
+<img src="Vintage Moonlit Scrapbook Header.png"
+alt="Terchzeslouise — anonymous observer"
+width="850">
 
 <p><i>somewhere between silence and a daydream...</i></p>
 
-<sub>✦ two names, two worlds, one observer ✦</sub>
-
-<br><br>
-
-<!-- TWO IDENTITIES -->
-
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/Terch-z3L0uis">
-<img src="Vintage Moonlit Bookshelf Sticker.png" alt="Terchzeslouise" width="330">
-</a>
-</td>
-<td align="center" width="50%">
-<a href="https://terch-z3l0uis.github.io/Zelouiserch/">
-<img src="Pastel Chibi LoveOS Lace Banner.png" alt="Zelouiserch" width="330">
-</a>
-</td>
-</tr>
-</table>
-
-<br>
-
-✦ ─────── ☾ ─────── ✦
-
-<p><sub>one remains unseen, the other dreams in pink</sub></p>
-
-<!-- STRAW.PAGE MESSAGE STATION -->
-
-<table>
-<tr>
-<td align="center" width="150">
-<sub>☾ observer's note</sub>
-<p><i>letters left<br>unspoken...</i></p>
-</td>
-
-<td align="center" width="200">
-<a href="https://vlovlouisesite.straw.page/">
-<img src="Dan%20%26%20Ver%20bg%20remove.png" alt="Dan and Ver" width="160">
-</a>
-<br>
-<sub>♡ leave a little message ♡</sub>
-</td>
-
-<td align="center" width="150">
-<sub>✉ unsent letters</sub>
-<p><i>a little<br>secret awaits.</i></p>
-</td>
-</tr>
-</table>
-
-<br>
-
-✦ ─────── ✧ ─────── ✦
-
-<p><i>not every door leads to the same world.</i></p>
-
-<sub>☾ end of transmission · for now ☽</sub>
+<sub>✦ TWO NAMES · TWO WORLDS · ONE OBSERVER ✦</sub>
 
 </div>
-<!-- THE UNSENT ARCHIVE -->
 
-<div align="center">
-
-<img src="Vintage Moonlit Scrapbook Header.png" alt="Terchzeslouise" width="850">
-
-<p><i>somewhere between silence and a daydream...</i></p>
-
-<sub>✦ two names, two worlds, one observer ✦</sub>
-
-<br><br>
+<br>
 
 <!-- TWO IDENTITIES -->
-
-<table>
+<table align="center">
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/Terch-z3L0uis">
-<img src="Vintage Moonlit Bookshelf Sticker.png" alt="Terchzeslouise" width="330">
+<img src="Vintage Moonlit Bookshelf Sticker.png"
+alt="Enter the mysterious archive"
+width="330">
 </a>
+<br>
+<sub>☾ the observer ☽</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://terch-z3l0uis.github.io/Zelouiserch/">
-<img src="Pastel Chibi LoveOS Lace Banner.png" alt="Zelouiserch" width="330">
+<img src="Pastel Chibi LoveOS Lace Banner.png"
+alt="Enter the dreamy LoveOS"
+width="330">
 </a>
+<br>
+<sub>♡ the daydreamer ♡</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-✦ ─────── ☾ ─────── ✦
+<!-- MESSAGE STATION -->
+<div align="center">
 
-<p><sub>one remains unseen, the other dreams in pink</sub></p>
+<h3>✉ 002 — the message station</h3>
 
-<!-- STRAW.PAGE MESSAGE STATION -->
+<sub>some letters are never sent.</sub>
+<br>
+<sub>some are simply waiting to be found.</sub>
 
-<table>
+</div>
+
+<br>
+
+<table align="center">
 <tr>
-<td align="center" width="150">
-<sub>☾ observer's note</sub>
-<p><i>letters left<br>unspoken...</i></p>
+<td align="center" width="160">
+<b>☾ INCOMING SIGNAL</b>
+<br>
+<sub>origin: unknown</sub>
+<br>
+<sub>status: listening...</sub>
 </td>
-
 <td align="center" width="200">
 <a href="https://vlovlouisesite.straw.page/">
-<img src="Dan%20%26%20Ver%20bg%20remove.png" alt="Dan and Ver" width="160">
+<img src="Dan%20%26%20Ver%20bg%20remove.png"
+alt="Dan and Ver — leave a message"
+width="170">
 </a>
 <br>
 <sub>♡ leave a little message ♡</sub>
 </td>
-
-<td align="center" width="150">
-<sub>✉ unsent letters</sub>
-<p><i>a little<br>secret awaits.</i></p>
+<td align="center" width="160">
+<b>✧ OUTGOING SIGNAL</b>
+<br>
+<sub>destination: elsewhere</sub>
+<br>
+<sub>status: dreaming...</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-✦ ─────── ✧ ─────── ✦
+<!-- OBSERVER LOG -->
+<div align="center">
+<h3>☾ 001 — observer's log ☽</h3>
+<sub>the archive contains things that were never said.</sub>
+</div>
+
+<details>
+<summary>🕯️ Open entry 001 — the unnamed narrator</summary>
+
+<br>
+
+> the screen flickers.
+>
+> a thousand stories pass unnoticed.
+>
+> somewhere, a narrator remains unnamed.
+
+`status: present, but unidentified.`
+
+</details>
+
+<details>
+<summary>🌙 Open entry 002 — the other world</summary>
+
+<br>
+
+> beyond the silence,
+>
+> there is a little world made of pink skies,
+>
+> golden stars, and impossible daydreams.
+
+<a href="https://terch-z3l0uis.github.io/Zelouiserch/">
+Enter the other world ♡
+</a>
+
+</details>
+
+<details>
+<summary>✉ Open entry 003 — unsent letters</summary>
+
+<br>
+
+> perhaps not every message needs an answer.
+>
+> sometimes, being heard is enough.
+
+<a href="https://vlovlouisesite.straw.page/">
+Leave an anonymous message
+</a>
+
+</details>
+
+<br>
+
+<!-- FUTURE GIF AND STICKER AREA -->
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<b>✦ A FRAGMENT OF THE NIGHT ✦</b>
+<br>
+<sub>[ future animated GIF ]</sub>
+</td>
+<td align="center" width="50%">
+<b>☾ LITTLE COMPANIONS ☽</b>
+<br>
+<sub>[ future chibi sticker ]</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- FINAL SECRET -->
+<div align="center">
+
+<sub>✧ one remains unseen, the other dreams in pink ✧</sub>
 
 <p><i>not every door leads to the same world.</i></p>
 
-<sub>☾ end of transmission · for now ☽</sub>
+</div>
 
+<details>
+<summary>👁️ [ reveal the final transmission ]</summary>
+
+<br>
+
+<div align="center">
+
+<i>you were never supposed to find this page.</i>
+
+<br><br>
+
+<sub>but since you're here...</sub>
+
+<br>
+
+<b>thank you for staying. ♡</b>
+
+</div>
+
+</details>
+
+<br>
+
+<div align="center">
+<sub>☾ END OF TRANSMISSION · FOR NOW ☽</sub>
 </div>

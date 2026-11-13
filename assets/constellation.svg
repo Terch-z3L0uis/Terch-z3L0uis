@@ -10,15 +10,15 @@
 <line x1="759" y1="148" x2="286" y2="161" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
 <line x1="286" y1="161" x2="359" y2="208" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
 <line x1="359" y1="208" x2="432" y2="255" stroke="#bba37c" stroke-width="0.7" opacity="0.28"/>
-<circle cx="502" cy="190" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-10-24: 15 contributions</title><animate attributeName="opacity" values="1.00;0.35;1.00" dur="3s" repeatCount="indefinite"/></circle>
-<circle cx="575" cy="237" r="5.6" fill="#f5dbac" opacity="0.97"><title>2026-10-25: 10 contributions</title><animate attributeName="opacity" values="0.97;0.35;0.97" dur="4s" repeatCount="indefinite"/></circle>
-<circle cx="721" cy="156" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-10-27: 31 contributions</title><animate attributeName="opacity" values="1.00;0.35;1.00" dur="5s" repeatCount="indefinite"/></circle>
-<circle cx="175" cy="122" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-10-30: 25 contributions</title><animate attributeName="opacity" values="1.00;0.35;1.00" dur="6s" repeatCount="indefinite"/></circle>
-<circle cx="248" cy="169" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-10-31: 40 contributions</title><animate attributeName="opacity" values="1.00;0.35;1.00" dur="7s" repeatCount="indefinite"/></circle>
-<circle cx="759" cy="148" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-11-07: 21 contributions</title><animate attributeName="opacity" values="1.00;0.35;1.00" dur="3s" repeatCount="indefinite"/></circle>
-<circle cx="286" cy="161" r="5.1" fill="#f5dbac" opacity="0.91"><title>2026-11-11: 7 contributions</title><animate attributeName="opacity" values="0.91;0.35;0.91" dur="4s" repeatCount="indefinite"/></circle>
-<circle cx="359" cy="208" r="3.5" fill="#f5dbac" opacity="0.74"><title>2026-11-12: 2 contributions</title><animate attributeName="opacity" values="0.74;0.35;0.74" dur="5s" repeatCount="indefinite"/></circle>
-<circle cx="432" cy="255" r="5.9" fill="#f5dbac" opacity="0.99"><title>2026-11-13: 12 contributions</title><animate attributeName="opacity" values="0.99;0.35;0.99" dur="6s" repeatCount="indefinite"/></circle>
-<text x="420" y="304" text-anchor="middle" fill="#d4bd98" font-family="monospace" font-size="15">163 contributions &#183; 9 active days &#183; last 90 days</text>
+<circle cx="502" cy="190" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-10-24: 15 contributions</title><animate attributeName="opacity" values="0.55;1.00;0.55" dur="2.80s" begin="-0.00s" repeatCount="indefinite"/></circle>
+<circle cx="575" cy="237" r="5.6" fill="#f5dbac" opacity="0.97"><title>2026-10-25: 10 contributions</title><animate attributeName="opacity" values="0.53;1.00;0.53" dur="3.25s" begin="-1.37s" repeatCount="indefinite"/></circle>
+<circle cx="721" cy="156" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-10-27: 31 contributions</title><animate attributeName="opacity" values="0.55;1.00;0.55" dur="3.70s" begin="-2.74s" repeatCount="indefinite"/></circle>
+<circle cx="175" cy="122" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-10-30: 25 contributions</title><animate attributeName="opacity" values="0.55;1.00;0.55" dur="4.15s" begin="-4.11s" repeatCount="indefinite"/></circle>
+<circle cx="248" cy="169" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-10-31: 40 contributions</title><animate attributeName="opacity" values="0.55;1.00;0.55" dur="4.60s" begin="-0.88s" repeatCount="indefinite"/></circle>
+<circle cx="759" cy="148" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-11-07: 21 contributions</title><animate attributeName="opacity" values="0.55;1.00;0.55" dur="5.05s" begin="-1.80s" repeatCount="indefinite"/></circle>
+<circle cx="286" cy="161" r="5.1" fill="#f5dbac" opacity="0.91"><title>2026-11-11: 7 contributions</title><animate attributeName="opacity" values="0.50;1.00;0.50" dur="5.50s" begin="-2.72s" repeatCount="indefinite"/></circle>
+<circle cx="359" cy="208" r="3.5" fill="#f5dbac" opacity="0.74"><title>2026-11-12: 2 contributions</title><animate attributeName="opacity" values="0.41;0.86;0.41" dur="2.80s" begin="-1.19s" repeatCount="indefinite"/></circle>
+<circle cx="432" cy="255" r="6.0" fill="#f5dbac" opacity="1.00"><title>2026-11-13: 15 contributions</title><animate attributeName="opacity" values="0.55;1.00;0.55" dur="3.25s" begin="-1.21s" repeatCount="indefinite"/></circle>
+<text x="420" y="304" text-anchor="middle" fill="#d4bd98" font-family="monospace" font-size="15">166 contributions &#183; 9 active days &#183; last 90 days</text>
 <text x="420" y="328" text-anchor="middle" fill="#958875" font-family="monospace" font-size="12">Every star holds a little memory.</text>
 </svg>

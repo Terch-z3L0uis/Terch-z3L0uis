@@ -8,7 +8,7 @@
 
 <img src="download.gif"
      alt="The Unsent Archive — animated title"
-     width="650">
+     width="450">
 
 <p><i>somewhere between silence and a daydream...</i></p>
 

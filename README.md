@@ -177,3 +177,11 @@ width="170">
 
 <br>
 
+<!-- THE OBSERVER'S FAMILIAR -->
+<div align="center">
+
+<h3>☾ THE OBSERVER'S FAMILIAR ☽</h3>
+
+<img src="Kuroneko's Shifting Gaze.gif"
+     alt="Kuroneko-sama watching over the archive"
+     width="650">

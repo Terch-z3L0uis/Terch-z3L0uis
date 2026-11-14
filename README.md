@@ -177,20 +177,17 @@ width="170">
 
 <br>
 
-<!-- THE OBSERVER'S FAMILIAR -->
+
+<!-- KURONEKO'S SHIFTING GAZE -->
 <div align="center">
 
-<h3>☾ THE OBSERVER'S FAMILIAR ☽</h3>
+### ☾ Kuroneko's Shifting Gaze ☽
 
-<img src="Kuroneko's Shifting Gaze.gif"
-     alt="Kuroneko-sama watching over the archive"
+<img src="Kuroneko%27s%20Shifting%20Gaze.gif"
+     alt="Kuroneko blinking and shifting her gaze"
      width="650">
 
-<p>
-  <sub>✦ Those who enter the archive are always watched. ✦</sub>
-</p>
-
-<sub>🐈‍⬛ Kuroneko-sama.exe — Watching silently...</sub>
+<sub>✦ The Observer's Familiar is watching... ✦</sub>
 
 </div>
 

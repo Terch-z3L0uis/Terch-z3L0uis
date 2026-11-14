@@ -165,32 +165,23 @@ width="170">
 <!-- THE OBSERVER'S CONSTELLATION -->
 <div align="center">
 
-### ☾ THE OBSERVER'S SKY ☽
 
-<img src="assets/constellation.svg"
-     alt="The Observer's Constellation"
-     width="800">
+<!-- CELESTIAL COMPANIONS -->
+<h3 align="center">☾ THE OBSERVER'S COMPANIONS ☽</h3>
 
-<sub>✦ Every star holds a little memory. ✦</sub>
-
-</div>
-
-<br>
-
-
-
-<!-- KURONEKO'S SHIFTING GAZE -->
-<div align="center">
-
-<h3>☾ Kuroneko's Shifting Gaze ☽</h3>
-
-<img src="Kuroneko%E2%80%99s%20Shifting%20Gaze.gif"
-     alt="Kuroneko blinking and shifting her gaze"
-     width="650">
-
-<p><sub>✦ The Observer's Familiar is watching... ✦</sub></p>
-
-</div>
-
-<br>
-
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  <img src="assets/constellation.svg" width="390"
+       alt="The Observer's Sky">
+</td>
+<td width="50%" align="center">
+  <img src="Kuroneko%E2%80%99s%20Shifting%20Gaze.gif"
+       width="390" alt="Kuroneko's Shifting Gaze">
+</td>
+</tr>
+<tr>
+<td align="center"><sub>✦ The Observer's Sky ✦</sub></td>
+<td align="center"><sub>✦ The Watchful Familiar ✦</sub></td>
+</tr>
+</table>

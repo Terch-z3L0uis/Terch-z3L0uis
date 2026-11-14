@@ -5,9 +5,10 @@
 
 <div align="center">
 
-<img src="Vintage Moonlit Scrapbook Header.png"
-alt="Terchzeslouise — anonymous observer"
-width="850">
+
+<img src="download.gif"
+     alt="The Unsent Archive — animated title"
+     width="850">
 
 <p><i>somewhere between silence and a daydream...</i></p>
 

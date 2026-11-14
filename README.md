@@ -178,17 +178,19 @@ width="170">
 <br>
 
 
+
 <!-- KURONEKO'S SHIFTING GAZE -->
 <div align="center">
 
-### ☾ Kuroneko's Shifting Gaze ☽
+<h3>☾ Kuroneko's Shifting Gaze ☽</h3>
 
-<img src="Kuroneko%27s%20Shifting%20Gaze.gif"
+<img src="Kuroneko%E2%80%99s%20Shifting%20Gaze.gif"
      alt="Kuroneko blinking and shifting her gaze"
      width="650">
 
-<sub>✦ The Observer's Familiar is watching... ✦</sub>
+<p><sub>✦ The Observer's Familiar is watching... ✦</sub></p>
 
 </div>
 
 <br>
+

@@ -185,3 +185,13 @@ width="170">
 <img src="Kuroneko's Shifting Gaze.gif"
      alt="Kuroneko-sama watching over the archive"
      width="650">
+
+<p>
+  <sub>✦ Those who enter the archive are always watched. ✦</sub>
+</p>
+
+<sub>🐈‍⬛ Kuroneko-sama.exe — Watching silently...</sub>
+
+</div>
+
+<br>

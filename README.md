@@ -177,7 +177,7 @@ width="170">
 </td>
 <td width="50%" align="center">
   <img src="Kuroneko%E2%80%99s%20Shifting%20Gaze.gif"
-       width="390" alt="Kuroneko's Shifting Gaze">
+       width="290" alt="Kuroneko's Shifting Gaze">
 </td>
 </tr>
 <tr>
